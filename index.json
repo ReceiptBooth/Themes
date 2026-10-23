@@ -1,0 +1,158 @@
+{
+  "formatVersion": 1,
+  "updatedAt": "2026-10-23T08:29:08Z",
+  "themes": [
+    {
+      "id": "478e786b-94b4-5a81-98ca-fe64beab45b4",
+      "slug": "birthday-modern",
+      "name": "Birthday · Modern",
+      "genre": "birthday",
+      "tags": [
+        "graphic",
+        "bold",
+        "geometric",
+        "adult"
+      ],
+      "description": "Confident black-and-coral geometry for grown-up birthdays; no balloons, no confetti.",
+      "version": 2,
+      "minAppVersionCode": 7,
+      "sizeBytes": 708191,
+      "sha256": "5f2f932fb40cd272dc43e95d5539f14978972dee8cfd6811253f81376c35ba7c",
+      "previewUrl": "previews/birthday-modern.png",
+      "packUrl": "packs/birthday-modern-v2.rbtheme"
+    },
+    {
+      "id": "c182fa8d-afb0-5376-b028-a4893fb3c22b",
+      "slug": "cafe-order-ticket",
+      "name": "Café · Order Ticket",
+      "genre": "cafe",
+      "tags": [
+        "receipt",
+        "monospace",
+        "playful",
+        "coffee"
+      ],
+      "description": "Plays on the receipt itself: order number, line items and thank-you lines in monospace.",
+      "version": 2,
+      "minAppVersionCode": 7,
+      "sizeBytes": 658940,
+      "sha256": "0b2c94521272a55587bd64cd70d8db1c64cd562a9c229bbfe4ea4ea47c0afd80",
+      "previewUrl": "previews/cafe-order-ticket.png",
+      "packUrl": "packs/cafe-order-ticket-v2.rbtheme"
+    },
+    {
+      "id": "8095d834-8fc5-5f58-b76e-f18d8a07ef3b",
+      "slug": "cny-2027",
+      "name": "Chinese New Year 2027",
+      "genre": "seasonal",
+      "tags": [
+        "cny",
+        "goat",
+        "red-gold",
+        "2027"
+      ],
+      "description": "Year of the Goat (CNY 6 Feb 2027): deep red and gold on screen, clean black line art on paper.",
+      "version": 2,
+      "minAppVersionCode": 7,
+      "sizeBytes": 784739,
+      "sha256": "8d924f7e9e6bc806898ff06c64b69870362147771120350b003c6c7b9c220f1c",
+      "previewUrl": "previews/cny-2027.png",
+      "packUrl": "packs/cny-2027-v2.rbtheme"
+    },
+    {
+      "id": "d1116a46-66f3-529d-b1e1-334f69a98b51",
+      "slug": "christmas-2026",
+      "name": "Christmas 2026",
+      "genre": "seasonal",
+      "tags": [
+        "christmas",
+        "evergreen",
+        "gold",
+        "2026"
+      ],
+      "description": "Deep evergreen with fine ivory line-art fir and baubles; quiet, giftable, not cartoonish.",
+      "version": 2,
+      "minAppVersionCode": 7,
+      "sizeBytes": 836635,
+      "sha256": "f67bb62365321f5eb975f3340776c6c0d1aa232d3f22a5b22f95e59f7aaf237c",
+      "previewUrl": "previews/christmas-2026.png",
+      "packUrl": "packs/christmas-2026-v2.rbtheme"
+    },
+    {
+      "id": "582dd85f-88f7-5ecc-ba3d-7388d48d5f54",
+      "slug": "corporate-brand",
+      "name": "Corporate · Brand",
+      "genre": "corporate",
+      "tags": [
+        "clean",
+        "minimal",
+        "logo",
+        "launch"
+      ],
+      "description": "Ultra-clean frame with a logo placeholder, event name and hashtag for brand activations.",
+      "version": 2,
+      "minAppVersionCode": 7,
+      "sizeBytes": 719657,
+      "sha256": "d2570a8bf549976bd59283a1121b76fab549c1746412020cb264996b6b1ae6b9",
+      "previewUrl": "previews/corporate-brand.png",
+      "packUrl": "packs/corporate-brand-v2.rbtheme"
+    },
+    {
+      "id": "133804f7-5863-59ab-abc0-bf6ed2a59b94",
+      "slug": "halloween-2026",
+      "name": "Halloween 2026",
+      "genre": "seasonal",
+      "tags": [
+        "halloween",
+        "moon",
+        "spooky-chic",
+        "2026"
+      ],
+      "description": "A moonlit, tasteful take on Halloween: crescent moon, bare branches and a few bats. Not gory.",
+      "version": 2,
+      "minAppVersionCode": 7,
+      "sizeBytes": 877446,
+      "sha256": "c3244ddfb55519248c3937ff5b30fd7de3ce241f1bf9964a668e7f667e639cf7",
+      "previewUrl": "previews/halloween-2026.png",
+      "packUrl": "packs/halloween-2026-v2.rbtheme"
+    },
+    {
+      "id": "40ec79f4-b4c9-50b8-a72d-a6e6e3bab0af",
+      "slug": "wedding-classic",
+      "name": "Wedding · Classic",
+      "genre": "wedding",
+      "tags": [
+        "elegant",
+        "serif",
+        "monogram",
+        "minimal"
+      ],
+      "description": "Fine serif type, a quiet monogram and plenty of white space for formal weddings.",
+      "version": 2,
+      "minAppVersionCode": 7,
+      "sizeBytes": 705510,
+      "sha256": "1d16e02d11c7ec7bbf785c5491e19956b48027bafb781244528def11bc68c91e",
+      "previewUrl": "previews/wedding-classic.png",
+      "packUrl": "packs/wedding-classic-v2.rbtheme"
+    },
+    {
+      "id": "260ea43c-7f94-5d35-8906-2474b73d46e0",
+      "slug": "wedding-garden",
+      "name": "Wedding · Garden",
+      "genre": "wedding",
+      "tags": [
+        "botanical",
+        "line-art",
+        "soft",
+        "outdoor"
+      ],
+      "description": "Delicate line-art leaves and laurel sprigs for garden and outdoor weddings.",
+      "version": 2,
+      "minAppVersionCode": 7,
+      "sizeBytes": 916966,
+      "sha256": "9cac47ddf051222428d75a2c2605e3cd605a7e4b84abc93a8fe7a04885a74ae9",
+      "previewUrl": "previews/wedding-garden.png",
+      "packUrl": "packs/wedding-garden-v2.rbtheme"
+    }
+  ]
+}
